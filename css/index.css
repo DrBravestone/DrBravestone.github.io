@@ -1,0 +1,24 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  background:#000;
+}
+h1 {
+  color: white;
+  font-family: 时尚中黑简体;
+}
+h2 {
+  color: white;
+  font-family: 仿宋;
+}
+p {
+  color: white;
+  font-family: Segoe Script;
+}
+a {
+	color: yellow;
+}
+#container {
+  width: 100%;
+  height: 100%;
+}  
